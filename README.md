@@ -3,6 +3,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://eunjin-jun717.github.io/)](https://eunjin-jun717.github.io/)
 
 :computer: Bachelor of Engineering in Information & Communication Engineering\
-:fire: Interested in **Computer Vision**
+:fire: Interested in **Data Analysis**, **Computer Vision**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjin-jun717&theme=buefy&show_icons=true)
